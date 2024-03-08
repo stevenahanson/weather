@@ -33,10 +33,10 @@ The main components of the app are:
 - **WeatherWidget**: This component displays the weather information including city, country, description, and temperature.
 - **WeatherData**: This component handles fetching weather data from the OpenWeatherMap API. Missing tests. Can be placed into a utils folder.
 
-## Technologies Used
+## Packages Used
 
-- React
-- React Spinners
+- React Spinners (loading symbol)
+- Weather-icons 
 
 ## Credits
 
