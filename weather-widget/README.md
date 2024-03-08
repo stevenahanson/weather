@@ -1,4 +1,4 @@
-# Weather App
+# Weather Widget
 
 This is a simple weather application that displays current weather information based on location using the OpenWeatherMap API.
 
